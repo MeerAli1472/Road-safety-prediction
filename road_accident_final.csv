@@ -1,0 +1,51 @@
+,Road_surface_type,Road_surface_conditions,Cause_of_accident,accident history,source,destination
+49,Asphalt roads,Dry,Driving to the left,2275,Agra,Delhi
+48,Asphalt roads,Dry,Driving carelessly,727,Agra,Jaipur
+47,Asphalt roads,Dry,No distancing,554,Agra,Kanpur
+46,Asphalt roads,Dry,Moving Backward,553,Agra,Mathura
+45,Asphalt roads,Wet or damp,Driving at high speed,498,Kanpur,Lucknow
+44,Asphalt roads,Wet or damp,Driving carelessly,155,Kanpur,Allahabad
+43,Asphalt roads,Wet or damp,No priority to vehicle,1476,Kanpur,agra
+42,Asphalt roads,Wet or damp,Changing lane to the right,3011,Kanpur,Varanasi
+41,Gravel roads,Dry,Changing lane to the left,1882,Varanasi,Allahabad
+40,Other,Dry,Driving carelessly,1879,delhi,Jaipur
+39,Asphalt roads,Dry,No priority to pedestrian,3827,delhi,Chandigarh
+38,Asphalt roads,Dry,No distancing,1305,delhi,Lucknow
+37,Asphalt roads,Dry,No distancing,1309,Kolkata,Asansol
+36,Asphalt roads,Dry,Moving Backward,1138,Kolkata,Durgapur
+35,Asphalt roads,Dry,Driving carelessly,273,Kolkata,Siliguri
+34,Asphalt roads,Wet or damp,Overturning,480,Kolkata,Bhubaneswar
+33,Asphalt roads,Wet or damp,Changing lane to the left,248,Chennai,Bengaluru
+32,Earth roads,Dry,Changing lane to the right,544,Chennai,Hyderabad
+31,Earth roads,Dry,Overtaking,243,Chennai,Coimbatore
+30,Gravel roads,Dry,Other,811,Chennai,Madurai
+29,Asphalt roads,Dry,Changing lane to the right,144,Bengaluru,Chennai
+28,Asphalt roads,Dry,Unknown,446,Bengaluru,Hyderabad
+27,Asphalt roads,Dry,Overtaking,521,Bengaluru,Mysuru
+26,Asphalt roads,Wet or damp,Changing lane to the right,535,Bengaluru,Mangaluru
+25,Asphalt roads,Dry,Other,46,Hyderabad,Bengaluru
+24,Asphalt roads,Dry,Other,2387,Hyderabad,Vijayawada
+23,Asphalt roads,Dry,No distancing,168,Hyderabad,Warangal
+22,Asphalt roads,Dry,No distancing,3750,Hyderabad,Visakhapatnam
+21,Asphalt roads,Dry,Changing lane to the left,2892,Mumbai, Pune
+20,Asphalt roads,Dry,Other,45,Mumbai,Nashik
+19,Asphalt roads,Dry,No distancing,4,Mumbai,Surat
+18,Asphalt roads,Dry,No priority to pedestrian,14,Mumbai,Ahmedabad
+17,Asphalt roads,Dry,Changing lane to the right,49,Pune,Mumbai
+16,Asphalt roads,Dry,No priority to vehicle,16,Pune,Nashik
+15,Asphalt roads,Dry,Changing lane to the right,16,Pune,Satara
+14,Asphalt roads,Dry,Changing lane to the left,34,Pune,Solapur
+13,Asphalt roads,Dry,Other,91,Jaipur,Delhi
+12,Asphalt roads,Dry,Overtaking,20,Jaipur,Ajmer
+11,Asphalt roads,Dry,Moving Backward,59,Jaipur,Udaipur
+10,Asphalt roads,Wet or damp,No priority to pedestrian,52,Jaipur,Jodhpur
+9,Asphalt roads,Dry,No distancing,31,Lucknow,Delhi
+8,Asphalt roads,Dry,No priority to vehicle,30,Lucknow,Kanpur
+7,Asphalt roads,Dry,No distancing,32,Lucknow,Allahabad
+6,Asphalt roads,Dry,Changing lane to the left,17,Lucknow,Varanasi
+5,Asphalt roads,Dry,Moving Backward,13,Varanasi,Lucknow
+4,Earth roads,Dry,Changing lane to the right,14,Varanasi,Patna
+3,Asphalt roads,Dry,No priority to vehicle,1746,Varanasi,Gorakhpur
+2,Asphalt roads,Dry,Overtaking,2554,Patna,Gaya
+1,Asphalt roads,Dry,Overtaking,1665,Patna,Varanasi
+0,Asphalt roads,Dry,Moving Backward,12,Patna,Muzaffarpur
